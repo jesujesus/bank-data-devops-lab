@@ -1,0 +1,12 @@
+{
+  "environment": "dev",
+  "currency_allowed": [
+    "PEN",
+    "USD"
+  ],
+  "status_allowed": [
+    "APPROVED",
+    "REJECTED",
+    "PENDING"
+  ]
+}
