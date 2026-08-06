@@ -11,3 +11,4 @@ build/
 *.egg-info/
 .databricks/
 .DS_Store
+data/output/
