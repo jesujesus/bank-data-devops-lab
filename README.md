@@ -66,3 +66,13 @@ git checkout -b feature/inicializar-proyecto
 3. Abrir un pull request.
 4. Confirmar que GitHub Actions ejecuta lint y pruebas.
 5. Crear los recursos mínimos en Azure.
+
+## Estado del proyecto
+
+- [x] Estructura inicial
+- [x] Datos ficticios
+- [x] Pruebas unitarias
+- [x] Integración continua con GitHub Actions
+- [ ] Recursos de Azure
+- [ ] Pipeline de Azure Data Factory
+- [ ] Procesamiento en Databricks
